@@ -6,4 +6,5 @@
 ## 使用技術　・Laravel 8
 ## テーブル設計
 ## ER図
+![スクリーンショット 2023-06-22 212920](https://github.com/mitsuun0121/laravel-test/assets/130974761/77a5f7cc-1375-4c56-98b8-7c3ea36e223c)
 
