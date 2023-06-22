@@ -1,0 +1,99 @@
+.contact-form__content {
+  margin: 0 auto;
+  padding: 30px 15px;
+  max-width: 1230px;
+}
+
+.contact-form__heading {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.form {
+  margin: 0 auto;
+  width: 60%;
+  text-align: left;
+}
+
+.form__group {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.form__group-title {
+  display: flex;
+}
+
+.form__label--item {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.form__label--required {
+  margin-top: 10px;
+  padding-left: 4px;
+  color: red;
+}
+.form__label--unit {
+  margin-top: 15px;
+}
+
+.form__group-content {
+  display: flex;
+}
+
+.form__error {
+  font-size: 14px;
+  color: #ff0000;
+  
+}
+
+.form__input--text input,
+.form__input--textarea textarea {
+  height: 10px;
+  padding: 25px;
+  width: 500px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  
+}
+
+.form__input-alert {
+  height: 20px;
+  text-align: left;
+  margin-top: 5px;
+  margin-left: 10px;
+  color: #ddd;
+  font-size: 14px;
+}
+
+.form__input--gender {
+  height: 10px;
+  width: 500px;
+  margin-top: 10px;
+}
+
+.male, .female {
+  font-weight: bold;
+}
+
+.form__input--textarea textarea {
+  height: 100px;
+}
+
+.form__button {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.form__button-submit {
+  padding: 10px;
+  width: 20%;
+  height: 50px;
+  border: none;
+  border-radius: 3px;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
